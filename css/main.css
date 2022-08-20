@@ -1,0 +1,62 @@
+body{background-image: url(../img/blue-tile.png);
+  font-family: "segeo UI", tahoma, sans-serif;
+}
+
+p,
+li {
+  color: rgb(30, 0, 255);
+  background-color: xgreen;
+}
+
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+}
+
+table {
+  border-style: dotted;
+  border-color: darkslateblue;
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 3vw;
+  color: #394F49;
+
+}
+
+h2 {
+  color: chocolate;
+  background-color: #93A8AC;
+  text-align: center;
+}
+
+#navbar {
+  background-color: cornflowerblue;
+}
+
+div {
+  margin: 10px;
+  border: 5px solid black;
+  padding: 10px;
+  width: 300px;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-right: 5px;
+  padding-bottom: 10 px;
+  border-left-width: 5px;
+  border-top-width: 10px;
+  border-right-width: 5px;
+  border-bottom-width: 10 px;
+}

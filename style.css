@@ -15,3 +15,11 @@ html, body {
 #spacing {
     height: 10%;
 }
+
+p,li{color:rgb(30, 0, 255);
+  background-color:xgreen;
+  } 
+  h2 {
+    color:skyblue;background-color:darkblue;
+    text-align:center;
+  }
