@@ -61,3 +61,10 @@ div {
   border-right-width: 5px;
   border-bottom-width: 10 px;
 }
+
+.navbar {
+  background-color: #fffaff;
+  border: solid #000080;
+  font-size: 20px;
+
+}
