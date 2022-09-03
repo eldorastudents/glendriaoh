@@ -15,17 +15,6 @@ h3 {
   text-transform: uppercase;
 }
 
-table {
-  border-style: dotted;
-  border-color: darkslateblue;
-}
-
-table,
-th,
-td {
-  border-collapse: collapse;
-  text-align: center;
-}
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
